@@ -1,0 +1,7 @@
+#Wed Jan 10 20:02:49 MST 2018
+base.0=/afs/ualberta.ca/home/j/c/jcook/StudioProjects/FillerCreepForAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a76d8e251aed38c3bd637014934e915ec227e74d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/afs/ualberta.ca/home/j/c/jcook/StudioProjects/FillerCreepForAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7625bf5beb2a93518fead67784efcedddbbdde1c/classes.dex
+base.1=/afs/ualberta.ca/home/j/c/jcook/StudioProjects/FillerCreepForAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7625bf5beb2a93518fead67784efcedddbbdde1c
+file.0=/afs/ualberta.ca/home/j/c/jcook/StudioProjects/FillerCreepForAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a76d8e251aed38c3bd637014934e915ec227e74d/classes.dex
